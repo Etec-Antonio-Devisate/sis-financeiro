@@ -37,7 +37,7 @@ Este repositório é utilizado como atividade avaliativa na disciplina **Program
 ---
 
 ## ️ Estrutura de Pastas
-text
+```
 sistema-financeiro/
 │
 ├── config/
@@ -60,7 +60,7 @@ sistema-financeiro/
 │       └── excluir.php         # DELETE – Exclusão de contas
 │
 └── README.md
----
+```
 
 ## ✅ Checklist de Entregas
 
